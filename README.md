@@ -92,5 +92,5 @@
 
 <details>
   <summary><strong> Nyan?</strong></summary>
-<a target="_blank" href="https://www.nyan.cat/#"><img alt="Nyan-Cat!" src="https://thumbs.gfycat.com/LegalNaturalBear-size_restricted.gif" /></a>
+<a target="_blank" href="https://www.nyan.cat/#"><img width="100%" alt="Nyan-Cat!" src="https://thumbs.gfycat.com/LegalNaturalBear-size_restricted.gif" /></a>
 </details>
