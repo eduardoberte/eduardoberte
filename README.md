@@ -9,7 +9,7 @@
 <div>
     <h2 align="center">🙌🏻 Hey! I'm Eduardo Guilherme Berté</h2>
     <p>🧬 23y</p>
-    <p>🏡 Living on Curitiba-Brazil</p>
+    <p>🏡 Living in Curitiba-Brazil</p>
     <p>🤸‍♂️ Hobbies: Games, lisen to music and skating </p>
 </div>
 </details>
