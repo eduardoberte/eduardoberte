@@ -10,7 +10,7 @@
     <h2 align="center">🙌🏻 Hey! I'm Eduardo Guilherme Berté</h2>
     <p>🧬 23y</p>
     <p>🏡 Living on Curitiba-Brazil</p>
-    <p>🤸‍♂️ Hobbies: 🎮Games and skating </p>
+    <p>🤸‍♂️ Hobbies: Games, lisen to music and skating </p>
 </div>
 </details>
 
@@ -92,5 +92,5 @@
 
 <details>
   <summary><strong> Nyan?</strong></summary>
-<a target="_blank" href="https://www.nyan.cat/#"><img alt="Nyan-Cat!" src="https://www.nyan.cat/index.php?cat=fiesta" /></a>
+<a target="_blank" href="https://www.nyan.cat/#"><img alt="Nyan-Cat!" src="https://thumbs.gfycat.com/LegalNaturalBear-size_restricted.gif" /></a>
 </details>
