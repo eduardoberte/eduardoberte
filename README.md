@@ -78,7 +78,6 @@
         <p align="center">
           <a href="https://github.com/eduardoberte/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eduardoberte&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoberte&theme=gruvbox&hide_border=true" />
           </a>
        </p>
   </div>    
@@ -91,6 +90,6 @@
 </details>
 
 <details>
-  <summary><strong> Nyan?</strong></summary>
+  <summary><strong>😺 Nyan?</strong></summary>
 <a target="_blank" href="https://www.nyan.cat/#"><img width="100%" alt="Nyan-Cat!" src="https://thumbs.gfycat.com/LegalNaturalBear-size_restricted.gif" /></a>
 </details>
