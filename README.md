@@ -54,8 +54,8 @@
   <summary><strong>📚 Projects</strong></summary>
 <div>
 <h2 align="center">📁 Projects developeds and posted in my GitHub</h2>
-    <p>💻 Nikel <a href="git@github.com:eduardoberte/nikel.git">git@github.com:eduardoberte/nikel.git</a>.</p>
-    <p>💡 JS logic game <a href="git@github.com:eduardoberte/JogoSimplesDeLogicaJS.git">git@github.com:eduardoberte/JogoSimplesDeLogicaJS.git</a>.</p>
+    <p>💻 Nikel - <a href="https://github.com/eduardoberte/nikel.git">https://github.com/eduardoberte/nikel.git</a>.</p>
+    <p>💡 JS logic game - <a href="https://github.com/eduardoberte/JogoSimplesDeLogicaJS.git">https://github.com/eduardoberte/JogoSimplesDeLogicaJS.git</a>.</p>
     <p></p>
 </div>
 </details>
