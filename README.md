@@ -55,6 +55,7 @@
 <div>
 <h2 align="center">📁 Projects developeds and posted in my GitHub</h2>
     <p>💻 Nikel - <a href="https://github.com/eduardoberte/nikel.git">https://github.com/eduardoberte/nikel.git</a>.</p>
+    <p>👘 Kimetsu Cards - <a href="https://eduardoberte.github.io/Projeto-kimetsuNoCards/">https://eduardoberte.github.io/Projeto-kimetsuNoCards/</a>.</p>
     <p>💡 JS logic game - <a href="https://github.com/eduardoberte/JogoSimplesDeLogicaJS.git">https://github.com/eduardoberte/JogoSimplesDeLogicaJS.git</a>.</p>
     <p></p>
 </div>
