@@ -54,8 +54,8 @@
   <summary><strong>📚 Projects</strong></summary>
 <div>
 <h2 align="center">📁 Projects developeds and posted in my GitHub</h2>
-    <p>📝Paginá de recados em React - <a href="https://github.com/eduardoberte/projeto-final-react">https://github.com/eduardoberte/projeto-final-react<a/>. </p>
-    <p>📝 Vaporwave Notes - <a href="https://github.com/eduardoberte/Pagina-de-recados">https://github.com/eduardoberte/Pagina-de-recados</a>.</p>
+    <p>📝Paginá de recados em React - <a href="https://github.com/eduardoberte/projeto-final-react">https://projeto-final-react-three.vercel.app/<a/>. </p>
+    <p>📝 Vaporwave Notes - <a href="https://github.com/eduardoberte/Pagina-de-recados">https://vaporwave-notes.vercel.app/</a>.</p>
     <p>💻 Nikel - <a href="https://github.com/eduardoberte/nikel.git">https://github.com/eduardoberte/nikel.git</a>.</p>
     <p>👘 Kimetsu Cards - <a href="https://eduardoberte.github.io/Projeto-kimetsuNoCards/">https://eduardoberte.github.io/Projeto-kimetsuNoCards/</a>.</p>
     <p>💡 JS logic game - <a href="https://github.com/eduardoberte/JogoSimplesDeLogicaJS.git">https://github.com/eduardoberte/JogoSimplesDeLogicaJS.git</a>.</p>
