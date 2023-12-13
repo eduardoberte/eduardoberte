@@ -78,28 +78,6 @@
 </p>
 </div>
 </details>
-
-<details> 
-  <summary><strong>📊 GitHub Profile Stats</strong></summary>
-  <div>
-        <p align="center">
-          <a href="https://github.com/eduardoberte/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoberte&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="eduardoberte :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/eduardoberte/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eduardoberte&show_icons=true&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-  </div>    
-</details>
-
-<details>
-  <summary><strong>📈 Activity Graph</strong></summary>
-  <br/>
-<a href="https://github.com/eduardoberte/github-readme-activity-graph"><img alt="eduardoberte's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=eduardoberte&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
-
 <details>
   <summary><strong>😺 Nyan?</strong></summary>
 <a target="_blank" href="https://www.nyan.cat/#"><img width="100%" alt="Nyan-Cat!" src="https://thumbs.gfycat.com/LegalNaturalBear-size_restricted.gif" /></a>
