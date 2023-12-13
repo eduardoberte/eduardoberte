@@ -20,7 +20,7 @@
   <samp>
     <h2 align="center">🛸 You can reach me by</h2>
     <p align="center">
-      <a target="_blank" href="https://www.linkedin.com/in/eduardo-bert%C3%A9/"><img align="center"
+      <a target="_blank" href="https://www.linkedin.com/in/eduardo-berte/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
           <a target="_blank" href="https://mailto:duduberte@hotmail.com"><img align="center"
