@@ -78,7 +78,3 @@
 </p>
 </div>
 </details>
-<details>
-  <summary><strong>😺 Nyan?</strong></summary>
-<a target="_blank" href="https://www.nyan.cat/index.php?cat=gb"><img width="100%" alt="Nyan-Cat!" src="https://www.nyan.cat/index.php?cat=gb" /></a>
-</details>
