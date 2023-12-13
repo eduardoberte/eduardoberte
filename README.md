@@ -8,7 +8,7 @@
   <summary><strong>🙋🏻‍♂️ about me</strong></summary>
 <div>
     <h2 align="center">🙌🏻 Hey! I'm Eduardo Guilherme Berté</h2>
-    <p>🧬 23y</p>
+    <p>🧬 24y</p>
     <p>🏡 Living in Curitiba-Brazil</p>
     <p>🤸‍♂️ Hobbies: Games, lisen to music and skating </p>
 </div>
@@ -44,7 +44,7 @@
   <summary><strong>🎓 Degree</strong></summary>
 <div>
 <h2 align="center">👨‍🎓 Academic and professional degrees</h2>
-    <p>💻 On course: System Analysis and Development, on <a href="https://www.opet.com.br/"> Opet-PR</a>. Actualy learning Front-End</p>
+    <p>💻 On course: System Analysis and Development, on <a href="https://www.opet.com.br/"> Opet-PR</a>. Actualy learning Back-End</p>
     <p>☕️ Barista</p>
     <p>🍸 Bartender</p>
 </div>
