@@ -49,7 +49,7 @@
   <summary><strong>📚 Projects</strong></summary>
 <div>
 <h2 align="center">📁 Projects developeds and posted in my GitHub</h2>
-    <p>📝 CRUD in C# - <a href="https://github.com/eduardoberte/CrudCSharpNew">. </p>
+    <p>📝 CRUD in C# - <a href="https://github.com/eduardoberte/CrudCSharpNew">https://github.com/eduardoberte/CrudCSharpNew. </p>
     <p>📝 Note Page in React - <a href="https://github.com/eduardoberte/projeto-final-react">https://projeto-final-react-three.vercel.app/<a/>. </p>
     <p>📝 Vaporwave Notes - <a href="https://github.com/eduardoberte/Pagina-de-recados">https://vaporwave-notes.vercel.app/</a>.</p>
     <p>💻 Nikel - <a href="https://github.com/eduardoberte/nikel.git">https://github.com/eduardoberte/nikel.git</a>.</p>
