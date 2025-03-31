@@ -57,5 +57,3 @@
     <p></p>
 </div>
 </details>
-<details>
-</details>
